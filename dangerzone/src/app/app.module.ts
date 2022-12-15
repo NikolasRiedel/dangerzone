@@ -8,6 +8,7 @@ import { HeaderComponent } from './header/header.component';
 import { ContentComponent } from './content/content.component';
 import { FooterComponent } from './footer/footer.component';
 import { InfoTrippComponent } from './info-tripp/info-tripp.component';
+import { BannerComponent } from './banner/banner.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { InfoTrippComponent } from './info-tripp/info-tripp.component';
     HeaderComponent,
     ContentComponent,
     FooterComponent,
-    InfoTrippComponent
+    InfoTrippComponent,
+    BannerComponent
   ],
   imports: [
     BrowserModule,
