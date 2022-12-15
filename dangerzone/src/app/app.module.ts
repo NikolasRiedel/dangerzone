@@ -9,6 +9,7 @@ import { ContentComponent } from './content/content.component';
 import { FooterComponent } from './footer/footer.component';
 import { InfoTrippComponent } from './info-tripp/info-tripp.component';
 import { BannerComponent } from './banner/banner.component';
+import { CardComponent } from './content/card/card.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { BannerComponent } from './banner/banner.component';
     ContentComponent,
     FooterComponent,
     InfoTrippComponent,
-    BannerComponent
+    BannerComponent,
+    CardComponent
   ],
   imports: [
     BrowserModule,

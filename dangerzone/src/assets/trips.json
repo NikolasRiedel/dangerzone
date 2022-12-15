@@ -1,0 +1,53 @@
+{
+"trips": [
+  {
+    "image": "assets/shark.png",
+    "name": "Mit Haien tauchen",
+    "description": "Tauche mit Haien in einem Käfig im atlantischen Ozean."
+  },
+  {
+    "image": "assets/wing.jpg",
+    "name": "Wingsuit",
+    "description": "In den Alpen werden sie sich fühlen wie Superman."
+  },
+  {
+    "image": "assets/rope.jpg",
+    "name": "Seiltanzen",
+    "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+  },
+  {
+    "image": "assets/bear.jpg",
+    "name": "Bären Wrestling",
+    "description": "Wollten Sie auch schon immer mal mit einem Bären kämpfen? Wir auch und deshalb machen wir es jetzt möglich!"
+  },
+  {
+    "image": "assets/earth.jpg",
+    "name": "Reise in den Erdkern",
+    "description": "Wir haben dank unserer patentierten Earthtunnel Technologie die möglichkeit geschaffen tiefer in die Erde zu reisen als jemals zuvor. Lassen sie sich von Magma und Hitze faszinieren."
+  },
+  {
+    "image": "assets/korea.jpg",
+    "name": "Nordkorea Reise",
+    "description": "Eine Reise ins Propaganda Märchen. Entdecken sie neue Kulturen und neue Menschen."
+  },
+  {
+    "image": "assets/desert.jpg",
+    "name": "Paintball mit echten Waffen",
+    "description": "Paintball ist zu langweilig? Dir fehlt der nervenkitzel? Steig ein bei unserem Programm!"
+  },
+  {
+    "image": "assets/czern.jpg",
+    "name": "Chernobyl",
+    "description": "Entdecken Sie das schöne Chernobyl und kommen Sie strahlend glücklich zurück!"
+  },
+  {
+    "image": "assets/ever.jpg",
+    "name": "Mount Everest besteigen",
+    "description": "Klettern Sie gerne auf Hügeln? Warum nicht gleich Hügel durchspielen und auf den größten gehen."
+  },
+  {
+    "image": "assets/chicken.jpg",
+    "name": "Menschen Essen",
+    "description": "Fressen oder gefressen werden."
+  }
+]}
